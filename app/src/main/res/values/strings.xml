@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CinePeek</string>
+    <string name="widget_small_description">CinePeek Small widget</string>
+    <string name="widget_medium_description">CinePeek Medium Widget</string>
+</resources>
